@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0434481b0f810b143aed95d6d3cec6bc, type: 3}
+  m_Name: Yellow
+  m_EditorClassIdentifier: 
+  Up:
+  - {fileID: 11400000, guid: 1c9662ce3aef8ad409f4380b63697e56, type: 2}
+  Down:
+  - {fileID: 11400000, guid: 1c9662ce3aef8ad409f4380b63697e56, type: 2}
+  Left:
+  - {fileID: 11400000, guid: 1c9662ce3aef8ad409f4380b63697e56, type: 2}
+  - {fileID: 11400000, guid: c088423fea997e64d8f89e3d10f8dcd9, type: 2}
+  Right:
+  - {fileID: 11400000, guid: 1c9662ce3aef8ad409f4380b63697e56, type: 2}
+  - {fileID: 11400000, guid: c088423fea997e64d8f89e3d10f8dcd9, type: 2}
+  - {fileID: 11400000, guid: d881782ad1413d74ea29b8b2fbb77c90, type: 2}
+  - {fileID: 11400000, guid: 8fbfeb54d2e19714093834c2bfe1d236, type: 2}
+  objectToInstantiate: {fileID: 1513711368684838125, guid: f9bf51ad8523e9b4ab2532e9727e51c3, type: 3}
